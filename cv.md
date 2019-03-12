@@ -9,4 +9,4 @@ ___
 5. Nothing;
 6. Nothing;
 7. Basic courses HTML and CSS;
-8. IH courses;
+8. IH courses.
